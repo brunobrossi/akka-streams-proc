@@ -40,7 +40,7 @@ Th file will be created at: ```target/scala-2.12/akka-streams-proc-assembly-1.0.
 
 To run this .jar, you are going to need scala/java installed.
 
-``scala target/scala-2.12/akka-streams-proc-assembly-1.0.jar````
+```scala target/scala-2.12/akka-streams-proc-assembly-1.0.jar````
 
 OR
 
