@@ -44,7 +44,7 @@ To run this .jar, you are going to need scala/java installed.
 
 OR
 
-``java -jar target/scala-2.12/akka-streams-proc-assembly-1.0.jar```
+```java -jar target/scala-2.12/akka-streams-proc-assembly-1.0.jar```
 
 
 ## Next Steps
