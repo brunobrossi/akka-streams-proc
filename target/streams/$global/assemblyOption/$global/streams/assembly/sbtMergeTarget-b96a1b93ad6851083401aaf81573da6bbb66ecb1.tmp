@@ -1,0 +1,8 @@
+udp {
+    address= "localhost"
+    port= 9000
+}
+
+file {
+    path= "results/"
+}

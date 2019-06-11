@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mMessageConsumerTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mIncomming elements[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should transform[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mIncomming elements[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should sum of data point 5 overall[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mIncomming elements[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return number of unique users[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mIncomming elements[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return UUID, average of float and recent data point 4[0m[0m
